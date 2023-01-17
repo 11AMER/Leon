@@ -335,7 +335,8 @@ body {
 }
 .about hr {
   width: 50%;
-  color: var(--primary-color);
+  border-color: var(--primary-color);
+  display: inline-block;
   margin: 50px 0 25px;
 }
 @media (max-width: 991px) {
@@ -354,9 +355,6 @@ body {
   }
   .about .text {
     margin-top: 70px;
-  }
-  .about hr {
-    display: inline-block;
   }
 }
 /* About End */
