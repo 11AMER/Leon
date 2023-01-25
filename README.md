@@ -1,2 +1,2 @@
 # Leon
-HTML &amp; CSS Practice - Tmplate 1
+HTML &amp; CSS Practice - Template 1
